@@ -41,7 +41,7 @@ function agregarStringInvertida() {
   // Pista: Necesitarás usar "this" dentro de "reverse"
   String.prototype.reverse= function() {
      var inverter= '';
-     for (var i= this.length - 1; i>=0; i--){
+     for (var i= this.length - 1; i>= 0; i --) {
        inverter= inverter + this.charAt(i);
      }; 
      return inverter;
