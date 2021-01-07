@@ -1,6 +1,12 @@
 h1{
     color: blue;
+    font-size: 60px;
+    text-align: center;
+    line-height: 2;
 
+}
+body{
+    background-color: papayawhip;
 }
 img{
     width: 400px;
@@ -8,7 +14,7 @@ img{
 #thirdDiv {
 width: 500;
 height: 600;
-background-color: brown;
+background-color: rgb(235, 163, 104);
 padding: 50px;
 border: 10px solid black;
   
