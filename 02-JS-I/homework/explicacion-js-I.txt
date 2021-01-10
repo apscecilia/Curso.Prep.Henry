@@ -1,0 +1,17 @@
+Explicación de conceptos:
+
+* Variables: Son como cajas contenedoras, en una caja puedes tener juguetes, libros, zapatos, etc.
+En programación estas cajas se llaman "variables" y pueden contener; números enteros, nros decimales, letras,numeros booleanos.
+	
+* Strings: Es un tipo de variable que contiene carácteres que pueden leerse pero no pueden realizar operaciones.
+    Se identifican porque van entre comillas dobles o simples
+
+* Funciones (argumentos, `return`): son un conjunto de procedimiento que tiene como objetivo llevar a cabo una acción.
+Para realizar esta tarea algunas reciben o vienen acompañadas de argumentos, que son un tipo de valor que ayudará 
+a dicha función conseguir el objetivo. Por lo general siempre devuelven (return) un valor
+	
+* Declaraciones `if`: Es un tipo de operador de control, que permite validar una condición. En este caso utilizamos 
+la palabra "if" para generar una regla, que en caso de que sea verdadera (true) realizará una acción y  en caso de 
+que sea falsa (false) realizará otra acción.
+	
+* Valores booleanos (`true`, `false`): son los valores que devuelve los operadores de control y los operadores de comparación
