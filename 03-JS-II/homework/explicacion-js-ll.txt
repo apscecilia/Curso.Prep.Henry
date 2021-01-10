@@ -1,0 +1,10 @@
+Explicación de conceptos por Cecilia:
+* for: es un blucle que tiene la particularidad de repetir una instrucción determinadas cantidades de veces 
+hasta que la condición creada deje de cumplirse.
+* &&:
+* ||: Es un tipo de operador de comparación. Su símbolo son dos rallas paralelas y su significado equivale a una "O"
+Determina si la comparación emitida es true (verdadera) O false (falso). Si al menos una de las condiciones es verdadera,
+el resultado es true, si ninguna de las condiciones es verdadera retorna un false
+* !: Es otro tipo de operador que significa NO. O sea si la condición que se ubica a la derecha de esta palabra 
+clave es verdadera entonces la condición final es falsa, y si la expresión es falsa entonces la condición final
+es verdadera.
