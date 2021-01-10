@@ -1,0 +1,15 @@
+Esplicación de conceptos por Cecilia:
+* Objetos: La definición es muy parecida a la que se utiliza en el mundo real, un objeto puede ser una mesa, un auto, 
+en programación otro tipo de contenedor de datos como los arrays pero con la particularidad que los Objetos
+contienen mucha información de una sola cosa. Se puede identificar e inicializar con el símbolo {}
+* Propiedades: Son características propias de un objeto o también llamadas atributos.Por ejemplo las propiedades 
+de un objeto auto serían la marca, modelo, motor, color
+* Métodos: Son instrucciones que pueden modificar los valores que se ha asignado a dicha propiedad. En un objeto
+los métodos son las funciones
+* Bucle for…in: Como los objetos no contienen índices numericos, se utiliza la palabra clave "in" para recorrer 
+todas las claves del objeto
+* Notación de puntos vs notación de corchetes: Los puntos y los corchetes se utilizan cuando quieres acceder a un objeto
+encapsulado dentro de otro. Agregar una propiedad a un objeto no es posible con la notación de puntos,
+ que solo puede aceptar un nombre de miembro literal, no un valor variable que apunte a un nombre. en cambio
+ el uso del corchete puede usarse para establecer dinámicamente no solo los valores de los miembros, 
+ sino también los nombres de los miembros.
