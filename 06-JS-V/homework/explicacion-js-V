@@ -1,0 +1,9 @@
+Explicación de conceptos por Cecilia:
+* prototype: Es un patrón de diseño a partir de una instancia, el objetivo es realizar copias de otro objetos
+sin necesidad de crear uno nuevo o saber como fue diseñado. cada clase tiene una propiedad prototype que puede 
+establecerse en métodos. Los métodos de prototype pueden utilizar la palabra clave This.
+
+* Constructors (de Clases): Cuando se construye un objeto es necesario inicializar sus variables con valores coherentes,
+Un constructor es un método perteneciente a la clase, por convención se inicia con una mayúscula y se llama igual que
+la clase.
+const sam = new Gato('Sam');
