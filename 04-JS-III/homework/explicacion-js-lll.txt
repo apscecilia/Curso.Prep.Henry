@@ -1,0 +1,4 @@
+Explicación por Cecilia:
+Arrays: Es un vector, una serie o bloque de almacenamiento posicionada de forma contigua
+que contiene datos del mismo tipo o que tienen algun tipo de relación entre ellos. Utiliza un
+índice para acceder al arreglo y comenzar a recorrerlo ya sea para extraer algun elemento o ingresarlo.
