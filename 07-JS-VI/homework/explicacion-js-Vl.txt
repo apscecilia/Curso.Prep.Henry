@@ -1,0 +1,7 @@
+concepto de:
+ 
+* Funciones Callback: Es una retrollamada. Es una función que se ejecutará dentro de otra función 
+y puede ser llamado en cualquier punto de esta.por convención se utiliza cb
+function crearSaludo(usuario, cb) {
+    return cb(usuario);
+}  
